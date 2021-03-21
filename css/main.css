@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   font-family: "Crimson Text", serif;
   font-weight: lighter;
+  line-height: 1.3;
 }
 
 *, *::before, *::after {
@@ -21,3 +22,19 @@ article p {
 .quote {
   font-weight: lighter;
 }
+
+body {
+  margin: 1em;
+}
+
+article {}
+
+article header {}
+
+article h1 {}
+
+article header p {}
+
+article ol {}
+
+blockquote {}
